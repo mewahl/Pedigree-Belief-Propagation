@@ -1,0 +1,3032 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 NAME Ben /Stacy/
+1 SEX M
+1 FAMC @F1@
+0 @P2@ INDI 
+1 NAME Alva /Stacy/
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F1@
+0 @P3@ INDI 
+1 NAME Hilda /Godsey/
+1 SEX F
+1 FAMS @F1@
+0 @P4@ INDI 
+1 NAME Mary Elizabeth /Ritchie/
+1 SEX F
+1 FAMS @F5@
+0 @P5@ INDI 
+1 BIRT 
+2 DATE 25 Nov 1930
+2 PLAC Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568346
+1 RESI 
+2 DATE 1935
+2 PLAC Knott, Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568346
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1 Apr 1940
+2 PLAC Knott, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568346
+1 NAME Bill L. /Stacy/
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568346
+1 DEAT 
+2 DATE 15 Feb 2002
+2 PLAC Miami Valley Hospital
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=5
+1 FAMC @F2@
+1 FAMS @F5@
+0 @P6@ INDI 
+1 BIRT 
+2 DATE 9 Nov 1886
+2 PLAC Perry, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568338
+1 RESI 
+2 DATE 1935
+2 PLAC Knott, Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568338
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1 Apr 1940
+2 PLAC Knott, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568338
+1 NAME John C. /Stacy/
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568338
+1 DEAT 
+2 DATE 13 Sep 1993
+2 PLAC Hazard, Perry, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=6
+1 FAMS @F2@
+0 @P7@ INDI 
+1 DEAT 
+2 DATE 23 February 1978
+2 PLAC Perry, Kentucky
+1 BIRT 
+2 DATE 30 Jan 1930
+2 PLAC Knott, Kentucky
+1 NAME Clyde /Stacy/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=7
+1 FAMC @F2@
+0 @P8@ INDI 
+1 DEAT 
+2 DATE 6 Nov 2003
+2 PLAC Rowdy, Perry, Kentucky, United States of America
+1 BIRT 
+2 DATE 22 Jan 1926
+2 PLAC Kentucky
+1 NAME Owen /Stacy/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=8
+1 FAMC @F2@
+0 @P9@ INDI 
+1 DEAT 
+2 DATE 16 Aug 1985
+2 PLAC Knott, Kentucky, USA
+1 BIRT 
+2 DATE 12 May 1927
+2 PLAC Perry, Kentucky
+1 NAME Vernon /Stacy/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=9
+1 FAMC @F2@
+0 @P10@ INDI 
+1 BIRT 
+2 DATE 1909
+2 PLAC Kentucky
+1 NAME Andrew /Stacy/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=10
+1 FAMC @F2@
+0 @P11@ INDI 
+1 BIRT 
+2 DATE 5 Nov 1909
+2 PLAC Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568369
+1 RESI 
+2 DATE 1935
+2 PLAC Rural, Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568369
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1 Apr 1940
+2 PLAC Knott, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568369
+1 NAME Martin /Stacy/
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568369
+1 DEAT 
+2 DATE Jan 1985
+2 PLAC Ary, Perry, Kentucky, United States of America
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=11
+1 FAMC @F2@
+1 FAMS @F4@
+0 @P12@ INDI 
+1 BIRT 
+2 DATE abt 1911
+2 PLAC Kentucky
+1 NAME Everett /Stacy/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=12
+1 FAMC @F2@
+0 @P13@ INDI 
+1 BIRT 
+2 DATE 1907
+2 PLAC Kentucky
+1 NAME Lurensa /Stacy/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=13
+1 FAMC @F2@
+0 @P14@ INDI 
+1 BIRT 
+2 DATE 1908
+2 PLAC Kentucky
+1 NAME Eva /Stacy/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=14
+1 FAMC @F2@
+0 @P15@ INDI 
+1 BIRT 
+2 DATE Jun 1889
+2 PLAC Perry, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437023
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568339
+1 RESI 
+2 DATE 1935
+2 PLAC Knott, Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568339
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1 Apr 1940
+2 PLAC Knott, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568339
+1 NAME Luna /Fugate/
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437023
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21A; Enumeration District: 60-3
+3 _APID 1,2442::50568339
+1 DEAT 
+2 DATE 30 Dec 1964
+2 PLAC Knott, Kentucky, USA
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1900
+2 PLAC Quicksand, Knott, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437023
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=15
+1 FAMC @F3@
+1 FAMS @F2@
+0 @P16@ INDI 
+1 MARR 
+2 DATE 1870
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437017
+1 BIRT 
+2 DATE 14 June 1854
+2 PLAC Perry, Kentucky, United States
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437017
+1 DEAT 
+2 DATE 26 Jul 1922
+2 PLAC Knott, Kentucky, United States
+1 NAME Mahala /Ritchie/
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437017
+1 RESI Marital Status: WidowedRelation to Head of House: Head
+2 DATE 1900
+2 PLAC Quicksand, Knott, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437017
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=16
+1 FAMC @F6@
+1 FAMS @F3@
+0 @P17@ INDI 
+1 DEAT 
+2 DATE 1898
+2 PLAC Perry County, Kentucky, USA
+1 BIRT 
+2 DATE 1844
+2 PLAC Perry, Kentucky, United States
+1 NAME Levi /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=17
+1 FAMC @F21@
+1 FAMS @F3@
+0 @P18@ INDI 
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1900
+2 PLAC Quicksand, Knott, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437019
+1 BIRT 
+2 DATE Mar 1881
+2 PLAC Kentucky
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437019
+1 NAME Arty /Fugate/
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437019
+1 SEX F
+1 FAMC @F3@
+0 @P19@ INDI 
+1 BIRT 
+2 DATE 1828-04-00
+2 PLAC Perry, Kentucky, USA
+1 DEAT 
+2 DATE 1900
+2 PLAC , Perry, Kentucky, USA
+1 NAME Elizabeth /Smith/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=19
+1 FAMC @F19@
+1 FAMS @F21@
+0 @P20@ INDI 
+1 DEAT 
+2 DATE 1900
+2 PLAC Perry, Kentucky, USA
+1 BIRT 
+2 DATE 1820
+2 PLAC Tazewell, Claiborne, Tennessee, USA
+1 NAME Martin /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=20
+1 FAMC @F18@
+1 FAMS @F21@
+0 @P21@ INDI 
+1 NAME Delilah /Fugate/
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437024
+1 BIRT 
+2 DATE May 1892
+2 PLAC Kentucky
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437024
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1900
+2 PLAC Quicksand, Knott, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437024
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=21
+1 FAMC @F3@
+0 @P22@ INDI 
+1 BIRT 
+2 DATE May 1883
+2 PLAC Kentucky
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437020
+1 NAME Thomas /Fugate/
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437020
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1900
+2 PLAC Quicksand, Knott, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437020
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=22
+1 FAMC @F3@
+0 @P23@ INDI 
+1 BIRT 
+2 DATE Jun 1884
+2 PLAC Kentucky
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437021
+1 NAME Martin /Fugate/
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437021
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1900
+2 PLAC Quicksand, Knott, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437021
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=23
+1 FAMC @F3@
+0 @P24@ INDI 
+1 BIRT 
+2 DATE Dec 1879
+2 PLAC Kentucky
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437018
+1 NAME Tabitha /Fugate/
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437018
+1 RESI Marital Status: SingleRelation to Head of House: Daughter
+2 DATE 1900
+2 PLAC Quicksand, Knott, Kentucky, USA
+2 SOUR @S-170156582@
+3 PAGE Year: 1900; Census Place: Quicksand, Knott, Kentucky; Roll: 536; Page: 16A; Enumeration District: 0046; FHL microfilm: 1240536
+3 _APID 1,7602::5437018
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=24
+1 FAMC @F3@
+0 @P25@ INDI 
+1 DEAT 
+2 DATE 28 Jan 1964
+2 PLAC Hamilton, Ohio
+1 BIRT 
+2 DATE 24 Jan 1891
+2 PLAC HAZARD, PERRY COUNTY, KENTUCKY
+1 NAME Claburn /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=25
+1 FAMC @F3@
+0 @P26@ INDI 
+1 DEAT 
+2 DATE 1880
+2 PLAC Perry County, Kentucky, United States
+1 BIRT 
+2 DATE 10 Dec 1811
+2 PLAC Perry, Kentucky, United States
+1 NAME Hanna /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=26
+1 FAMC @F14@
+1 FAMS @F6@
+0 @P27@ INDI 
+1 BIRT 
+2 DATE 1810
+2 PLAC Hammonds Gap, Perry Co., KY
+1 DEAT 
+2 DATE 1880
+2 PLAC Buckhorn, Breathitt, Kentucky, United States
+1 NAME James /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=27
+1 FAMS @F6@
+0 @P28@ INDI 
+1 BIRT 
+2 DATE abt 1906
+2 PLAC Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568370
+1 RESI 
+2 DATE 1935
+2 PLAC Rural, Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568370
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1 Apr 1940
+2 PLAC Knott, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568370
+1 NAME Claudia
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568370
+1 SEX F
+1 FAMS @F4@
+0 @P29@ INDI 
+1 BIRT 
+2 DATE abt 1939
+2 PLAC Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568374
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1 Apr 1940
+2 PLAC Knott, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568374
+1 NAME Adam /Stacy/
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568374
+1 SEX M
+1 FAMC @F4@
+0 @P30@ INDI 
+1 BIRT 
+2 DATE abt 1937
+2 PLAC Kentucky
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568373
+1 RESI Marital Status: SingleRelation to Head of House: Son
+2 DATE 1 Apr 1940
+2 PLAC Knott, Kentucky, USA
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568373
+1 NAME Amos /Stacy/
+2 SOUR @S-170154162@
+3 PAGE Year: 1940; Census Place: Knott, Kentucky; Roll: T627_1326; Page: 21B; Enumeration District: 60-3
+3 _APID 1,2442::50568373
+1 SEX M
+1 FAMC @F4@
+0 @P31@ INDI 
+1 DEAT 
+2 DATE 20 Aug 1853
+2 PLAC Perry, Kentucky, United States
+1 BIRT 
+2 DATE 26 Jan 1853
+2 PLAC Perry, Kentucky, United States
+1 NAME Joshua /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=31
+1 FAMC @F6@
+0 @P32@ INDI 
+1 BIRT 
+2 DATE 24 Jan 1846
+2 PLAC Perry Co, Kentucky, USA
+1 NAME John /Ritchie/
+1 DEAT 
+2 DATE 22 Sep 1920
+2 PLAC Clayhole, Breathitt Co, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=32
+1 FAMC @F6@
+0 @P33@ INDI 
+1 DEAT 
+2 DATE 1840
+2 PLAC Perry, Kentucky, United States
+1 BIRT 
+2 DATE 1831
+2 PLAC Perry, Kentucky, United States 
+1 NAME Francis "Franky" /Ritchie/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=33
+1 FAMC @F6@
+0 @P34@ INDI 
+1 DEAT 
+2 DATE 3 Nov 1894
+2 PLAC Knott, Kentucky, United States
+1 BIRT 
+2 DATE 8 Oct 1852
+2 PLAC Perry, Kentucky, United States
+1 NAME James Crockett /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=34
+1 FAMC @F6@
+0 @P35@ INDI 
+1 BIRT 
+2 DATE 1849
+2 PLAC Perry, Kentucky, United States
+1 NAME Hannah /Ritchie/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=35
+1 FAMC @F6@
+0 @P36@ INDI 
+1 BIRT 
+2 DATE 25 Dec 1844
+2 PLAC Perry, Kentucky, United States
+1 DEAT 
+2 DATE 3 Mar 1920
+2 PLAC Nicholas, Kentucky, United States
+1 NAME Zachariah /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=36
+1 FAMC @F6@
+0 @P37@ INDI 
+1 DEAT 
+2 DATE 8 Mar 1912
+2 PLAC Clayhole, Breathitt, Kentucky, United States
+1 BIRT 
+2 DATE 20 Jan 1840
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Andrew /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=37
+1 FAMC @F6@
+0 @P38@ INDI 
+1 BIRT 
+2 DATE May 1841
+2 PLAC Perry, Kentucky, United States
+1 NAME Samuel /Ritchie/
+1 DEAT 
+2 DATE 28 Dec 1911
+2 PLAC Knott, Kentucky, United States
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=38
+1 FAMC @F6@
+0 @P39@ INDI 
+1 DEAT 
+2 DATE 26 Jul 1899
+2 PLAC Talcum, Knott, Kentucky, United States
+1 BIRT 
+2 DATE 11 Jun 1829
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Martin Washburn /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=39
+1 FAMC @F6@
+1 FAMS @F7@
+0 @P40@ INDI 
+1 DEAT 
+2 DATE Dec 1872
+2 PLAC Perry, Kentucky, United States
+1 BIRT 
+2 DATE 1830
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Tabatha "Bithie" /Ritchie/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=40
+1 FAMC @F6@
+0 @P41@ INDI 
+1 DEAT 
+2 DATE 8 Aug 1916
+2 PLAC Knott, Kentucky, United States
+1 BIRT 
+2 DATE 3 Mar 1835
+2 PLAC Perry, Kentucky, United States
+1 NAME Gabriel H /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=41
+1 FAMC @F6@
+0 @P42@ INDI 
+1 SEX F
+1 NAME Mary /Wells/
+1 FAMS @F14@
+0 @P43@ INDI 
+1 BIRT 
+2 DATE 1783
+2 PLAC Washington, Virginia, United States
+1 NAME Martin /Fugate/
+1 DEAT 
+2 DATE 1839
+2 PLAC Breathitt, Kentucky, United States
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=43
+1 FAMC @F15@
+1 FAMS @F14@
+0 @P44@ INDI 
+1 NAME Rebecca /Williams/
+1 DEAT 
+2 DATE 1865
+1 BIRT 
+2 DATE 1837
+2 PLAC Perry, Kentucky, United States
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=44
+1 FAMS @F7@
+0 @P45@ INDI 
+1 BIRT 
+2 DATE 20 Nov 1857
+2 PLAC Carrs Fork, Perry, Kentucky, United States
+1 DEAT 
+2 DATE 3 Nov 1894
+2 PLAC Perry, Kentucky, United States
+1 NAME James /Ritchie/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=45
+1 FAMC @F7@
+1 FAMS @F24@
+0 @P46@ INDI 
+1 BIRT 
+2 DATE 1850 - 1855
+2 PLAC Perry, Kentucky, United States
+1 DEAT 
+2 DATE 10 Nov 1938
+2 PLAC Kentucky, United States
+1 NAME Hannah /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=46
+1 FAMC @F9@
+1 FAMS @F24@
+0 @P47@ INDI 
+1 BIRT 
+2 DATE 18 Oct 1884
+2 PLAC Breathitt County, Kentucky, USA
+1 DEAT 
+2 DATE 16 Mar 1961
+2 PLAC Breathitt County, Kentucky, USA
+1 NAME Polly /Ritchie/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=47
+1 FAMC @F24@
+1 FAMS @F8@
+0 @P48@ INDI 
+1 DEAT 
+2 DATE 28 Jun 1900
+2 PLAC Perry, Kentucky, USA
+1 BIRT 
+2 DATE 13 Feb 1814
+2 PLAC Clay, Kentucky, USA
+1 NAME Mary /Smith/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=48
+1 FAMC @F19@
+1 FAMS @F9@
+0 @P49@ INDI 
+1 DEAT 
+2 DATE 11 Feb 1864
+2 PLAC Lost Creek, Perry, Kentucky, USA
+1 BIRT 
+2 DATE 4 Sep 1816
+2 PLAC Perry, Kentucky, USA
+1 NAME Zachariah /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=49
+1 FAMS @F9@
+0 @P50@ INDI 
+1 BIRT 
+2 DATE 20 Feb 1914
+2 PLAC Perry County, Kentucky, USA
+1 DEAT 
+2 DATE 18 Jun 1994
+2 PLAC Farmersville, Montgomery, Ohio, USA
+1 NAME Netta /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=50
+1 FAMC @F8@
+0 @P51@ INDI 
+1 DEAT 
+2 DATE 19 Nov 1985
+2 PLAC Perry County, Kentucky, USA
+1 BIRT 
+2 DATE 6 Sep 1901
+2 PLAC Perry County, Kentucky, USA
+1 NAME Conzalia /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=51
+1 FAMC @F8@
+0 @P52@ INDI 
+1 BIRT 
+2 DATE 25 May 1904
+2 PLAC Breathitt County, Kentucky, USA
+1 DEAT 
+2 DATE 8 Nov 1974
+2 PLAC Breathitt County, Kentucky, USA
+1 NAME Zachariah /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=52
+1 FAMC @F8@
+0 @P53@ INDI 
+1 BIRT 
+2 DATE abt 1910
+2 PLAC Kentucky
+1 NAME James /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=53
+1 FAMC @F8@
+0 @P54@ INDI 
+1 DEAT 
+2 DATE 6 Sep 1990
+2 PLAC Hindman, Knott, Kentucky, USA
+1 BIRT 
+2 DATE 6 Apr 1918
+2 PLAC Perry County, Kentucky, USA
+1 NAME Johnnie /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=54
+1 FAMC @F8@
+0 @P55@ INDI 
+1 DEAT 
+2 DATE 2 Nov 1961
+2 PLAC Knott, Kentucky
+1 BIRT 
+2 DATE 2 Feb 1879
+2 PLAC Breathitt, Kentucky, USA
+1 NAME Manuel /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=55
+1 FAMC @F10@
+1 FAMS @F8@
+0 @P56@ INDI 
+1 DEAT 
+2 DATE 15 Jul 1926
+2 PLAC Knott, Kentucky
+1 BIRT 
+2 DATE 5 Aug 1844
+2 PLAC Kentucky
+1 NAME Mary 'Polly' /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=56
+1 FAMC @F12@
+1 FAMS @F10@
+0 @P57@ INDI 
+1 DEAT 
+2 DATE 11 Jan 1921
+2 PLAC Knott, Kentucky, USA
+1 BIRT 
+2 DATE 1 Apr 1845
+2 PLAC Perry, Kentucky, USA
+1 NAME Zachariah /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=57
+1 FAMC @F9@
+1 FAMS @F10@
+0 @P58@ INDI 
+1 BIRT 
+2 DATE 13 May 1840
+2 PLAC Perry County, Kentucky, USA
+1 DEAT 
+2 DATE 24 Jan 1927
+2 PLAC Troublesome Creek, Perry County, Kentucky
+1 NAME Martha "Patsy" /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=58
+1 FAMC @F9@
+0 @P59@ INDI 
+1 BIRT 
+2 DATE 24 Jun 1834
+2 PLAC Perry, Kentucky, USA
+1 NAME Mary Ann /Fugate/
+1 DEAT 
+2 DATE 22 Jul 1912
+2 PLAC Knott Co, Kentucky, USA
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=59
+1 FAMC @F9@
+0 @P60@ INDI 
+1 DEAT 
+2 DATE 14 Aug 1916
+2 PLAC Lincoln, West Virginia, United States
+1 BIRT 
+2 DATE 11 May 1832
+2 PLAC Perry, Kentucky, USA
+1 NAME John Benjamin "Blue Anze" /Fugate/ Pvt. (Blue)
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=60
+1 FAMC @F9@
+0 @P61@ INDI 
+1 BIRT 
+2 DATE 1838
+2 PLAC Perry, Kentucky, USA
+1 DEAT 
+2 DATE 11 Jun 1876
+2 PLAC Ary, Perry, Kentucky, United States
+1 NAME Gabriel /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=61
+1 FAMC @F9@
+0 @P62@ INDI 
+1 BIRT 
+2 DATE 1839
+2 PLAC Perry, Kentucky, USA
+1 DEAT 
+2 DATE 3 July 1872
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Martin /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=62
+1 FAMC @F9@
+0 @P63@ INDI 
+1 BIRT 
+2 DATE 1849
+2 PLAC Perry, Kentucky, USA
+1 NAME Minerva /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=63
+1 FAMC @F9@
+0 @P64@ INDI 
+1 BIRT 
+2 DATE 9 Sep 1851
+2 PLAC Hazard, Perry, Kentucky, United States
+1 DEAT 
+2 DATE 3 Jul 1924
+2 PLAC Hindman, Perry, Kentucky, United States
+1 NAME Alexander /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=64
+1 FAMC @F9@
+0 @P65@ INDI 
+1 DEAT 
+2 DATE 24 Feb 1972
+2 PLAC Kentucky, United States
+1 BIRT 
+2 DATE 10 Dec 1855
+2 PLAC Perry, Kentucky, USA
+1 NAME Anderson "Ans" /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=65
+1 FAMC @F9@
+0 @P66@ INDI 
+1 BIRT 
+2 DATE 24 Jan 1854
+2 PLAC Ball Fork of Troubelsome Creek, Kentucky, USA
+1 DEAT 
+2 DATE 22 Feb 1922
+2 PLAC Ary, Perry, Kentucky, USA
+1 NAME Lorenzo Dow "Blue Anze" /Fugate/ (Herb Doctor)
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=66
+1 FAMC @F9@
+1 FAMS @F11@
+0 @P67@ INDI 
+1 BIRT 
+2 DATE 1842
+2 PLAC Perry, Kentucky, USA
+1 DEAT 
+2 DATE 1864 Civil War Prisoner of War
+2 PLAC Died while attempting to Escape Prison at Point Lookout, Maryland, USA
+1 NAME Daniel /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=67
+1 FAMC @F9@
+0 @P68@ INDI 
+1 BIRT 
+2 DATE 20 Jun 1772
+2 PLAC Shenendoah, Warren, Virginia, United States
+1 DEAT 
+2 DATE 11 Mar 1858
+2 PLAC Ary, Perry, Kentucky, United States
+1 NAME Alicia /Combs/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=68
+1 FAMS @F19@
+0 @P69@ INDI 
+1 BIRT 
+2 DATE 6 Mar 1771
+2 PLAC St Bride, Virginia, United States
+1 MARR 
+2 DATE 1794
+2 PLAC Kingsport, Sullivan, Tennessee, United States
+1 DEAT 
+2 DATE 28 Nov 1836
+2 PLAC Ary, Perry, Kentucky, United States
+1 NAME Richard /Smith/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=69
+1 FAMC @F20@
+1 FAMS @F19@
+0 @P70@ INDI 
+1 BIRT 
+2 DATE 29 Nov 1872
+2 PLAC Breathitt, Kentucky
+1 DEAT 
+2 DATE 28 Jan 1953
+2 PLAC W Hamlin, Lincoln, W Virginia
+1 NAME Martin Van Buren /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=70
+1 FAMC @F10@
+0 @P71@ INDI 
+1 DEAT 
+2 DATE 20 Feb 1964
+2 PLAC Perry, Kentucky
+1 BIRT 
+2 DATE 15 Feb 1882
+2 PLAC Breathitt, Kentucky
+1 NAME John Morgan /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=71
+1 FAMC @F10@
+0 @P72@ INDI 
+1 BIRT 
+2 DATE abt 1869
+2 PLAC Kentucky
+1 NAME Henry /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=72
+1 FAMC @F10@
+0 @P73@ INDI 
+1 BIRT 
+2 DATE 1879
+2 PLAC Kentucky
+1 NAME Marcus L /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=73
+1 FAMC @F10@
+0 @P74@ INDI 
+1 DEAT 
+2 DATE 12 Jan 1950
+2 PLAC Knott, Kentucky, USA
+1 BIRT 
+2 DATE 12 Apr 1865
+2 PLAC Breathitt, Kentucky, USA
+1 NAME Arminda /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=74
+1 FAMC @F10@
+0 @P75@ INDI 
+1 DEAT 
+2 DATE 17 Jul 1955
+2 PLAC Lexington, Fayette, Kentucky
+1 BIRT 
+2 DATE 29 Dec 1876
+2 PLAC Breathitt, Kentucky, USA
+1 NAME Martha /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=75
+1 FAMC @F10@
+0 @P76@ INDI 
+1 BIRT 
+2 DATE 13 Nov 1876
+2 PLAC Breathitt, Kentucky
+1 NAME Samuel P /Fugate/
+1 DEAT 
+2 DATE Dec 1936
+2 PLAC Perry, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=76
+1 FAMC @F10@
+0 @P77@ INDI 
+1 BIRT 
+2 DATE 24 Mar 1884
+2 PLAC Breathitt, Kentucky
+1 DEAT 
+2 DATE 3 Dec 1959
+2 PLAC Perry, Kentucky, United States
+1 NAME Zachariah /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=77
+1 FAMC @F10@
+0 @P78@ INDI 
+1 DEAT 
+2 DATE 25 Nov 1952
+2 PLAC Powell, Kentucky, United States
+1 BIRT 
+2 DATE 1 Jan 1874
+2 PLAC Breathitt, Kentucky, USA
+1 NAME Cathrine /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=78
+1 FAMC @F10@
+0 @P79@ INDI 
+1 BIRT 
+2 DATE 24 Dec 1873
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Julie Ann /Fugate/
+1 DEAT 
+2 DATE 16 Jun 1949
+2 PLAC Knott, Kentucky, United States
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=79
+1 FAMC @F10@
+0 @P80@ INDI 
+1 BIRT 
+2 DATE 5 Aug 1844
+2 PLAC Perry, Kentucky, United States
+1 DEAT 
+2 DATE 15 Jul 1926
+2 PLAC Knott, Kentucky, United States
+1 NAME Polly "mary Polly" Fugate /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=80
+1 FAMC @F11@
+0 @P81@ INDI 
+1 DEAT 
+2 DATE 10 Nov 1960
+2 PLAC Ary, Perry, Kentucky
+1 BIRT 
+2 DATE 28 Mar 1890
+2 PLAC Perry, Kentucky
+1 NAME Gabriel /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=81
+1 FAMC @F11@
+0 @P82@ INDI 
+1 BIRT 
+2 DATE 16 May 1895
+2 PLAC Ary, Perry, Kentucky, USA
+1 DEAT 
+2 DATE 2 May 1969
+2 PLAC Charlestown, Clark, Indiana, USA
+1 NAME Richard /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=82
+1 FAMC @F11@
+0 @P83@ INDI 
+1 DEAT 
+2 DATE 29 Apr 1976
+2 PLAC Perry, Kentucky, USA
+1 BIRT 
+2 DATE 22 Oct 1892
+2 PLAC Ary, Perry, Kentucky, USA
+1 NAME James B "Boss Jim" /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=83
+1 FAMC @F11@
+0 @P84@ INDI 
+1 BIRT 
+2 DATE 11 Dec 1860
+2 PLAC Ary, Perry, Kentucky, United States
+1 DEAT 
+2 DATE 20 Feb 1944
+2 PLAC Knott, Kentucky, United States
+1 NAME Eleanor /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=84
+1 FAMC @F13@
+1 FAMS @F11@
+0 @P85@ INDI 
+1 DEAT 
+2 DATE 1928
+2 PLAC Kentucky
+1 BIRT 
+2 DATE 1842
+2 PLAC Breathitt County, Kentucky
+1 NAME Lucinda Judah /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=85
+1 FAMC @F12@
+1 FAMS @F13@
+0 @P86@ INDI 
+1 DEAT 
+2 DATE 1900
+2 PLAC Breathitt, Kentucky, United States
+1 BIRT 
+2 DATE 1838
+2 PLAC Perry, Kentucky, United States
+1 NAME William /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=86
+1 FAMC @F25@
+1 FAMS @F13@
+0 @P87@ INDI 
+1 DEAT 
+2 DATE 8 Nov 1887
+2 PLAC Perry Co., KY, USA
+1 BIRT 
+2 DATE 17 Jun 1797
+2 PLAC Sullivan, Tennessee
+1 NAME Martha Patsey /Smith/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=87
+1 FAMC @F19@
+1 FAMS @F12@
+0 @P88@ INDI 
+1 DEAT 
+2 DATE 10 May 1883
+2 PLAC Breathitt County,  Kentucky,  USA
+1 BIRT 
+2 DATE 20 August 1795
+2 PLAC North Carolina,   USA
+1 NAME John /Campbell/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=88
+1 FAMS @F12@
+0 @P89@ INDI 
+1 DEAT 
+2 PLAC Kentucky, USA
+1 BIRT 
+2 DATE 1838
+2 PLAC , Breathitt, Kentucky, USA
+1 NAME Katherine /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=89
+1 FAMC @F12@
+0 @P90@ INDI 
+1 DEAT 
+2 DATE 16 Feb 1859
+2 PLAC , Breathitt, Kentucky, USA
+1 BIRT 
+2 DATE 1840
+2 PLAC , Breathitt, Kentucky, USA
+1 NAME Lewis /Campbell/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=90
+1 FAMC @F12@
+0 @P91@ INDI 
+1 DEAT 
+2 DATE 28 Jan 1925
+2 PLAC Knott, Kentucky, United States
+1 BIRT 
+2 DATE 10 Jun 1835
+2 PLAC Lotts Creek, Perry Co,   KY
+1 NAME Susannah /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=91
+1 FAMC @F12@
+0 @P92@ INDI 
+1 DEAT 
+2 DATE 29 Jul 1905
+2 PLAC Perry County, KY
+1 BIRT 
+2 DATE 27 Sep 1837
+2 PLAC Breathitt County, KY
+1 NAME Caleb /Campbell/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=92
+1 FAMC @F12@
+0 @P93@ INDI 
+1 BIRT 
+2 DATE 1833
+2 PLAC Breathitt Co.Kentucky
+1 NAME John  /Campbell/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=93
+1 FAMC @F12@
+0 @P94@ INDI 
+1 DEAT 
+2 PLAC Kentucky, USA
+1 BIRT 
+2 DATE 1832
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Marinda Rindy /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=94
+1 FAMC @F12@
+0 @P95@ INDI 
+1 DEAT 
+2 DATE 27 Nov 1920
+2 PLAC Knott County, Kentucky
+1 BIRT 
+2 DATE 22 Dec 1822
+2 PLAC Breathitt, Kentucky
+1 NAME Elitia  /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=95
+1 FAMC @F12@
+0 @P96@ INDI 
+1 BIRT 
+2 DATE 26 Oct 1826
+2 PLAC Breathitt County, KY
+1 DEAT 
+2 DATE 25 Jun 1912
+2 PLAC Breathitt County, KY
+1 NAME Eliza /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=96
+1 FAMC @F12@
+1 FAMS @F23@
+0 @P97@ INDI 
+1 DEAT 
+2 PLAC Kentucky, USA
+1 BIRT 
+2 DATE 1831
+2 PLAC Perry Co,Kentucky
+1 NAME Martha Patsy /Campbell/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=97
+1 FAMC @F12@
+0 @P98@ INDI 
+1 BIRT 
+2 DATE 11 Oct 1819
+2 PLAC , Clay, Kentucky, USA
+1 NAME Nancy /Campbell/
+1 DEAT 
+2 DATE 14 Jan 1918
+2 PLAC Buckhorn, Knott, Kentucky, USA
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=98
+1 FAMC @F12@
+0 @P99@ INDI 
+1 DEAT 
+2 DATE bef 1900
+2 PLAC , Breathitt, Kentucky, USA
+1 BIRT 
+2 DATE 1820
+2 PLAC , Perry, Kentucky, USA
+1 NAME Alexander /Campbell/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=99
+1 FAMC @F12@
+0 @P100@ INDI 
+1 DEAT 
+2 PLAC Kentucky, USA
+1 BIRT 
+2 DATE 1824
+2 PLAC Perry, Kentucky, United States
+1 NAME William /Campbell/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=100
+1 FAMC @F12@
+0 @P101@ INDI 
+1 BIRT 
+2 DATE 29 Dec 1826
+2 PLAC Perry, Kentucky, United States
+1 DEAT 
+2 DATE 22 Jul 1883
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Henry Davis /Hudson/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=101
+1 FAMS @F23@
+0 @P102@ INDI 
+1 DEAT 
+2 DATE 1880
+1 BIRT 
+2 DATE Jun 1870
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Talbert /Hudson/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=102
+1 FAMC @F23@
+0 @P103@ INDI 
+1 DEAT 
+2 DATE 20 Oct 1886
+2 PLAC Breathitt, Kentucky, United States
+1 BIRT 
+2 DATE 15 Oct 1862
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Louisa /Hudson/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=103
+1 FAMC @F23@
+0 @P104@ INDI 
+1 DEAT 
+2 DATE 16 Jul 1951
+2 PLAC Deputy, Jefferson, Indiana, United States
+1 BIRT 
+2 DATE 1864
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Martha E /Hutson/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=104
+1 FAMC @F23@
+0 @P105@ INDI 
+1 DEAT 
+2 DATE 18 Jan 1955
+2 PLAC Clayhole, Breathitt, Kentucky, United States
+1 BIRT 
+2 DATE 2 May 1867
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Andrew C /Hutson/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=105
+1 FAMC @F23@
+0 @P106@ INDI 
+1 DEAT 
+2 DATE 1860
+1 BIRT 
+2 DATE 1858
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Polly /Hudson/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=106
+1 FAMC @F23@
+0 @P107@ INDI 
+1 BIRT 
+2 DATE 2 May 1854
+2 PLAC Buckhorn, Breathitt, Kentucky, United States
+1 NAME Margaret Peggy /Hudson/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=107
+1 FAMC @F23@
+0 @P108@ INDI 
+1 DEAT 
+2 DATE 1 Jan 1929
+2 PLAC Hardshell, Breathitt, Kentucky, United States
+1 BIRT 
+2 DATE 17 Apr 1856
+2 PLAC Breathitt, Kentucky, United States
+1 NAME James H /Hudson/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=108
+1 FAMC @F23@
+0 @P109@ INDI 
+1 BIRT 
+2 DATE 1849
+2 PLAC Breathitt, Kentucky, USA
+2 SOUR @S-170111815@
+3 PAGE Year: 1920; Census Place: Hindman, Knott, Kentucky; Roll: T625_577; Page: 17A; Enumeration District: 48; Image: 288
+3 _APID 1,6061::56913753
+1 RESI Marital Status: WidowRelation to Head of House: Mother
+2 DATE 1920
+2 PLAC Hindman, Knott, Kentucky, USA
+2 SOUR @S-170111815@
+3 PAGE Year: 1920; Census Place: Hindman, Knott, Kentucky; Roll: T625_577; Page: 17A; Enumeration District: 48; Image: 288
+3 _APID 1,6061::56913753
+1 NAME Nancy /Hudson/
+2 SOUR @S-170111815@
+3 PAGE Year: 1920; Census Place: Hindman, Knott, Kentucky; Roll: T625_577; Page: 17A; Enumeration District: 48; Image: 288
+3 _APID 1,6061::56913753
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=109
+1 FAMC @F23@
+1 FAMS @F22@
+0 @P110@ INDI 
+1 DEAT 
+2 DATE 17 Dec 1927
+2 PLAC Knott, Kentucky, United States
+1 BIRT 
+2 DATE 19 Jan 1847
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Gabriel /Hudson/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=110
+1 FAMC @F23@
+0 @P111@ INDI 
+1 DEAT 
+2 DATE 10 Oct 1947
+2 PLAC Knott, Kentucky, United States
+1 BIRT 
+2 DATE 2 May 1852
+2 PLAC Noble, Kentucky, United States
+1 NAME Cynthia Ann /Hudson/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=111
+1 FAMC @F23@
+0 @P112@ INDI 
+1 NAME Unknown /Fugate/
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F25@
+0 @P113@ INDI 
+1 BIRT 
+2 DATE 1753
+2 PLAC Washington, Virginia, United States
+1 DEAT 
+2 DATE 10 Aug 1853
+2 PLAC Troublesome Creek, Breathitt, Kentucky, United States
+1 NAME Hannah /Devers/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=113
+1 FAMS @F15@
+0 @P114@ INDI 
+1 BIRT 
+2 DATE 1755
+2 PLAC Frederick, VA, USA
+1 DEAT 
+2 DATE 1838
+2 PLAC Troublesome Creek Pigon Roost, Perry, Kentucky, United States
+1 MARR 
+2 DATE 1778
+2 PLAC Washington, Co, VA
+1 NAME Benjamin /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=114
+1 FAMC @F16@
+1 FAMS @F15@
+0 @P115@ INDI 
+1 DEAT 
+2 DATE 1824
+2 PLAC Spotsylvania, King George, Virginia, United States
+1 BIRT 
+2 DATE 1726
+2 PLAC King George, King George, Virginia, United States
+1 NAME Sarah /Henley/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=115
+1 FAMS @F16@
+0 @P116@ INDI 
+1 BIRT 
+2 DATE 1722
+2 PLAC Moccasin Valley, Russell, Virginia, United States
+1 DEAT 
+2 DATE 19 Jun 1803
+2 PLAC Russell, Virginia, United States
+1 NAME Martin Vogt /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=116
+1 FAMS @F16@
+0 @P117@ INDI 
+1 DEAT 
+2 DATE 12 Oct 1855
+2 PLAC Troublesome Creek, Breathitt, Kentucky, United States
+1 BIRT 
+2 DATE 1793
+2 PLAC Virginia, United States
+1 NAME Catherine /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=117
+1 FAMC @F15@
+0 @P118@ INDI 
+1 BIRT 
+2 DATE 1795
+2 PLAC Virginia Beach, Princess Anne, Virginia, United States
+1 DEAT 
+2 DATE 6 Aug 1863
+2 PLAC Perry, Kentucky, United States
+1 NAME Eli Flint /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=118
+1 FAMC @F15@
+0 @P119@ INDI 
+1 BIRT 
+2 DATE 1797
+2 PLAC Russell, Virginia, United States
+1 DEAT 
+2 DATE 1870
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Henley /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=119
+1 FAMC @F15@
+0 @P120@ INDI 
+1 BIRT 
+2 DATE 1798
+2 PLAC Virginia, United States
+1 NAME Rachel /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=120
+1 FAMC @F15@
+0 @P121@ INDI 
+1 BIRT 
+2 DATE 1784
+1 NAME Andrew /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=121
+1 FAMC @F15@
+0 @P122@ INDI 
+1 DEAT 
+2 DATE 1838
+2 PLAC Breathitt, Kentucky, United States
+1 BIRT 
+2 DATE 1787
+2 PLAC Russell, Virginia, United States
+1 NAME Charles D /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=122
+1 FAMC @F15@
+0 @P123@ INDI 
+1 BIRT 
+2 DATE 1789
+2 PLAC Russell, Virginia, United States
+1 DEAT 
+2 DATE 1839
+2 PLAC Kentucky, United States
+1 NAME Frances Franky /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=123
+1 FAMC @F15@
+0 @P124@ INDI 
+1 BIRT 
+2 DATE 1785
+2 PLAC Washington, Virginia, United States
+1 DEAT 
+2 DATE 1825
+2 PLAC Perry, Kentucky, United States
+1 NAME Zachariah /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=124
+1 FAMC @F15@
+0 @P125@ INDI 
+1 BIRT 
+2 DATE 1765
+2 PLAC Frederick, Virginia, United States
+1 DEAT 
+2 DATE Mar 1808
+2 PLAC Russell, Virginia, United States
+1 NAME William /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=125
+1 FAMC @F16@
+1 FAMS @F17@
+0 @P126@ INDI 
+1 BIRT 
+2 DATE 1764
+2 PLAC Russell, Virginia, United States
+1 DEAT 
+2 DATE 1831
+2 PLAC Hopkins, Kentucky, United States
+1 NAME George /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=126
+1 FAMC @F16@
+0 @P127@ INDI 
+1 BIRT 
+2 DATE 1760
+2 PLAC Wilkes, North Carolina, United States
+1 NAME Patience /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=127
+1 FAMC @F16@
+0 @P128@ INDI 
+1 DEAT 
+2 DATE 7 Nov 1838
+2 PLAC Hansonville, Russell, Virginia, United States
+1 BIRT 
+2 DATE 1752
+2 PLAC Frederick, Virginia, United States
+1 NAME Zachariah /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=128
+1 FAMC @F16@
+0 @P129@ INDI 
+1 DEAT 
+2 DATE Aug 1838
+2 PLAC Claiborne, Tennessee, United States
+1 BIRT 
+2 DATE 1763
+2 PLAC Frederick, Virginia, United States
+1 NAME Henley /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=129
+1 FAMC @F16@
+0 @P130@ INDI 
+1 BIRT 
+2 DATE 1759
+2 PLAC Frederickco, Virginia, United States
+1 NAME Colbert /Fugate/
+1 DEAT 
+2 DATE 15 Aug 1819
+2 PLAC Tatesville, Pulaski, Kentucky, United States
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=130
+1 FAMC @F16@
+0 @P131@ INDI 
+1 DEAT 
+2 DATE 1823
+2 PLAC Clay, Kentucky, United States
+1 BIRT 
+2 DATE 1754
+2 PLAC Russell, Virginia, United States
+1 NAME Nancy Ann /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=131
+1 FAMC @F16@
+0 @P132@ INDI 
+1 DEAT 
+2 DATE 13 Sep 1781
+2 PLAC Moccasin Creek, Russell, Virginia, United States
+1 BIRT 
+2 DATE 1752
+2 PLAC Washington, Virginia, United States
+1 NAME Francis M /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=132
+1 FAMC @F16@
+0 @P133@ INDI 
+1 NAME Winifred /Fugate/
+1 DEAT 
+2 DATE 1785
+2 PLAC Roaring River, Wilkes, North Carolina, United States
+1 BIRT 
+2 DATE 1755
+2 PLAC Wilkes, North Carolina, United States
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=133
+1 FAMC @F16@
+0 @P134@ INDI 
+1 BIRT 
+2 DATE 1751
+2 PLAC Wilkes, North Carolina, United States
+1 DEAT 
+2 DATE Feb 1788
+2 PLAC Fincastle, Botetourt, Virginia, United States
+1 NAME Sithy /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=134
+1 FAMC @F16@
+0 @P135@ INDI 
+1 DEAT 
+2 DATE 1820
+2 PLAC Clay, Kentucky, United States
+1 BIRT 
+2 DATE 1750
+2 PLAC Fredrick, Virginia, United States
+1 NAME Catherine /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=135
+1 FAMC @F16@
+0 @P136@ INDI 
+1 NAME John /Fugate/
+1 BIRT 
+2 DATE 1748
+2 PLAC Wilkes, North Carolina, United States
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=136
+1 FAMC @F16@
+0 @P137@ INDI 
+1 BIRT 
+2 DATE 1846
+2 PLAC Perry, Kentucky, United States
+1 NAME Charles /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=137
+1 FAMC @F17@
+0 @P138@ INDI 
+1 BIRT 
+2 DATE Dec 1860
+2 PLAC Perry, Kentucky, United States
+1 NAME Henry /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=138
+1 FAMC @F17@
+0 @P139@ INDI 
+1 BIRT 
+2 DATE 10 Dec 1811
+2 PLAC Perry, Kentucky, United States
+1 DEAT 
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Hannah /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=139
+1 FAMC @F17@
+0 @P140@ INDI 
+1 BIRT 
+2 DATE 15 Jul 1839
+2 PLAC Breathitt, Kentucky, United States
+1 NAME Mary Polly /Fugate/
+1 DEAT 
+2 DATE 15 Jul 1905
+2 PLAC Kentucky, United States
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=140
+1 FAMC @F17@
+0 @P141@ INDI 
+1 DEAT 
+2 DATE 9 Jan 1855
+2 PLAC Tazewell, Claiborne, Tennessee, United States
+1 BIRT 
+2 DATE 2 Nov 1799
+2 PLAC Tazewell, Claiborne, Tennessee, United States
+1 NAME William /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=141
+1 FAMC @F17@
+0 @P142@ INDI 
+1 BIRT 
+2 DATE 1801
+2 PLAC Russell, Lewis, Tennessee, United States
+1 DEAT 
+2 DATE 1850
+2 PLAC Spring City, Rhea, Tennessee, United States
+1 NAME Zachariah /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=142
+1 FAMC @F17@
+0 @P143@ INDI 
+1 DEAT 
+2 DATE 15 Oct 1865
+2 PLAC Lee, Virginia, United States
+1 BIRT 
+2 DATE 1805
+2 PLAC Claiborne, Tennessee, United States
+1 NAME Julia /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=143
+1 FAMC @F17@
+0 @P144@ INDI 
+1 BIRT 
+2 DATE 1789
+2 PLAC Russell, Virginia, United States
+1 DEAT 
+2 DATE 2 Dec 1855
+2 PLAC Rockcastle, Kentucky, United States
+1 NAME Martin /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=144
+1 FAMC @F17@
+0 @P145@ INDI 
+1 BIRT 
+2 DATE 1795
+2 PLAC Virginia, United States
+1 DEAT 
+2 DATE 18 Oct 1874
+2 PLAC Rockcastle, Kentucky, United States
+1 NAME Levi /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=145
+1 FAMC @F17@
+1 FAMS @F18@
+0 @P146@ INDI 
+1 BIRT 
+2 DATE 1765
+2 PLAC Frederick County, Virginia
+1 DEAT 
+2 DATE 1808
+2 PLAC Russell, Virginia, United States
+1 NAME Sarah /Stevens/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=146
+1 FAMS @F17@
+0 @P147@ INDI 
+1 NAME Hannah /Noble/
+1 SEX F
+1 FAMS @F18@
+0 @P148@ INDI 
+1 DEAT 
+2 PLAC Brides, Norfork, Virginia, United States
+1 BIRT 
+2 DATE 1750
+1 NAME Betty /Ritchie/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=148
+1 FAMS @F20@
+0 @P149@ INDI 
+1 DEAT 
+2 DATE 1777
+2 PLAC Brides, Norfork, Virginia, United States
+1 BIRT 
+2 DATE 1740
+2 PLAC East, Virginia, United States
+1 NAME William /Smith/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=149
+1 FAMS @F20@
+0 @P150@ INDI 
+1 NAME Zachariah /Fugate/
+1 BIRT 
+2 DATE 1870-08-00
+2 PLAC Perry, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=150
+1 FAMC @F21@
+0 @P151@ INDI 
+1 BIRT 
+2 DATE 9 Feb 1847
+2 PLAC , Perry, Kentucky, USA
+1 NAME Charles /Fugate/
+1 DEAT 
+2 DATE 3 Nov 1895
+2 PLAC Dwarf, Perry, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=151
+1 FAMC @F21@
+0 @P152@ INDI 
+1 BIRT 
+2 DATE 1855-07-22
+2 PLAC Perry, Kentucky, USA
+1 NAME Wilson M /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=152
+1 FAMC @F21@
+0 @P153@ INDI 
+1 NAME Marcellus J /Fugate/
+1 BIRT 
+2 DATE 1866
+2 PLAC Perry, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=153
+1 FAMC @F21@
+0 @P154@ INDI 
+1 NAME Tolbert /Fugate/
+1 BIRT 
+2 DATE 1858-03-30
+2 PLAC Perry, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=154
+1 FAMC @F21@
+0 @P155@ INDI 
+1 BIRT 
+2 DATE 1863-04-01
+2 PLAC Perry, Kentucky, USA
+1 DEAT 
+2 DATE 1923-05-22
+2 PLAC Knott, Kentucky, USA
+1 NAME Gabriel /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=155
+1 FAMC @F21@
+0 @P156@ INDI 
+1 NAME Henry /Fugate/
+1 BIRT 
+2 DATE 1860-12-00
+2 PLAC Perry, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=156
+1 FAMC @F21@
+0 @P157@ INDI 
+1 DEAT 
+2 PLAC Breathitt, Kentucky, USA
+1 BIRT 
+2 DATE 1841-12-10
+2 PLAC Perry, Kentucky, USA
+1 NAME Hannah /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=157
+1 FAMC @F21@
+0 @P158@ INDI 
+1 DEAT 
+2 DATE 1921
+1 BIRT 
+2 DATE 1852-01-30
+2 PLAC Perry, Kentucky, USA
+1 NAME Henley /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=158
+1 FAMC @F21@
+0 @P159@ INDI 
+1 DEAT 
+2 DATE 1905-07-15
+2 PLAC Kentucky, USA
+1 BIRT 
+2 DATE 1839-07-15
+2 PLAC Breathitt, Kentucky, USA
+1 NAME Mary Polly /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=159
+1 FAMC @F21@
+0 @P160@ INDI 
+1 BIRT 
+2 DATE 1846
+2 PLAC Perry Kentucky
+2 SOUR @S-170111833@
+3 _APID 1,8750::4300611
+1 DEAT 
+2 DATE 11/03/1895
+2 PLAC Dwarf, Perry, Kentucky, USA
+2 SOUR @S-170111833@
+3 _APID 1,8750::4300611
+1 BURI 
+2 PLAC KY
+2 SOUR @S-170111833@
+3 _APID 1,8750::4300611
+1 NAME Charles /Fugate/
+2 SOUR @S-170111833@
+3 _APID 1,8750::4300611
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=160
+1 FAMC @F21@
+1 FAMS @F22@
+0 @P161@ INDI 
+1 BIRT 
+2 DATE 1883
+2 PLAC Perry, Kentucky, USA
+1 NAME Louisa /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=161
+1 FAMC @F22@
+0 @P162@ INDI 
+1 BIRT 
+2 DATE Sep 1889
+2 PLAC , Breathitt, Kentucky, USA
+1 NAME Mary /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=162
+1 FAMC @F22@
+0 @P163@ INDI 
+1 NAME Thomas /Fugate/
+1 BIRT 
+2 DATE Jan 1891
+2 PLAC , Breathitt, Kentucky, USA
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=163
+1 FAMC @F22@
+0 @P164@ INDI 
+1 BIRT 
+2 DATE 1873
+2 PLAC Kentucky
+1 NAME Brison /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=164
+1 FAMC @F22@
+0 @P165@ INDI 
+1 BIRT 
+2 DATE 1871
+2 PLAC Kentucky
+1 NAME James /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=165
+1 FAMC @F22@
+0 @P166@ INDI 
+1 BIRT 
+2 DATE 1876
+2 PLAC Kentucky
+1 NAME Elizabeth /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=166
+1 FAMC @F22@
+0 @P167@ INDI 
+1 BIRT 
+2 DATE 1869
+2 PLAC Perry, Kentucky, USA
+1 DEAT 
+2 PLAC Breathitt, Ky, USA
+1 NAME America /Fugate/
+1 SEX F
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=167
+1 FAMC @F22@
+0 @P168@ INDI 
+1 BIRT 
+2 DATE 1880
+2 PLAC Kentucky
+2 SOUR @S-170111815@
+3 PAGE Year: 1920; Census Place: Hindman, Knott, Kentucky; Roll: T625_577; Page: 17A; Enumeration District: 48; Image: 288
+3 _APID 1,6061::56913745
+1 RESI Marital Status: MarriedRelation to Head of House: Head
+2 DATE 1920
+2 PLAC Hindman, Knott, Kentucky, USA
+2 SOUR @S-170111815@
+3 PAGE Year: 1920; Census Place: Hindman, Knott, Kentucky; Roll: T625_577; Page: 17A; Enumeration District: 48; Image: 288
+3 _APID 1,6061::56913745
+1 NAME John E. /Fugate/
+2 SOUR @S-170111815@
+3 PAGE Year: 1920; Census Place: Hindman, Knott, Kentucky; Roll: T625_577; Page: 17A; Enumeration District: 48; Image: 288
+3 _APID 1,6061::56913745
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=168
+1 FAMC @F22@
+0 @P169@ INDI 
+1 BIRT 
+2 DATE 1877
+2 PLAC Kentucky
+1 NAME Gabriel /Fugate/
+1 SEX M
+1 SOUR @S-170156595@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=74641499&pid=169
+1 FAMC @F22@
+0 @F1@ FAM 
+1 HUSB @P2@
+1 WIFE @P3@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P6@
+1 WIFE @P15@
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM 
+1 HUSB @P17@
+1 WIFE @P16@
+1 CHIL @P24@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P18@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P22@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P21@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1876
+2 PLAC Kentucky, USA
+0 @F4@ FAM 
+1 HUSB @P11@
+1 WIFE @P28@
+1 CHIL @P30@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P29@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P5@
+1 WIFE @P4@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+0 @F6@ FAM 
+1 HUSB @P27@
+1 WIFE @P26@
+1 CHIL @P39@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P33@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P38@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P36@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P35@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P34@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 12 Aug 1826
+2 PLAC Perry, Kentucky, United States
+0 @F7@ FAM 
+1 HUSB @P39@
+1 WIFE @P44@
+1 CHIL @P45@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 20 Apr 1852
+2 PLAC Engle, Perry, Kentucky, United States
+0 @F8@ FAM 
+1 HUSB @P55@
+1 WIFE @P47@
+1 CHIL @P51@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P52@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P53@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P50@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P54@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1899
+0 @F9@ FAM 
+1 HUSB @P49@
+1 WIFE @P48@
+1 CHIL @P60@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P59@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P61@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P58@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P63@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P46@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P64@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P66@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P65@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 16 Dec 1583
+1 MARR 
+2 DATE 1832
+2 PLAC Perry, Kentucky, USA
+0 @F10@ FAM 
+1 HUSB @P57@
+1 WIFE @P56@
+1 CHIL @P74@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P72@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P70@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P73@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P55@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P71@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1865
+0 @F11@ FAM 
+1 HUSB @P66@
+1 WIFE @P84@
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P81@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P83@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Abt 1888
+0 @F12@ FAM 
+1 HUSB @P88@
+1 WIFE @P87@
+1 CHIL @P98@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P95@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P96@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P97@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P94@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P91@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P92@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P89@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P90@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P85@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 10 Nov 1817
+2 PLAC Clay County,  Kentucky,  USA
+0 @F13@ FAM 
+1 HUSB @P86@
+1 WIFE @P85@
+1 CHIL @P84@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 11 July 1858
+2 PLAC Breathitt, Kentucky
+0 @F14@ FAM 
+1 HUSB @P43@
+1 WIFE @P42@
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P112@
+2 _FREL Natural
+2 _MREL Natural
+0 @F15@ FAM 
+1 HUSB @P114@
+1 WIFE @P113@
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P121@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P124@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P122@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P123@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P117@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P118@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P119@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P120@
+2 _FREL Natural
+2 _MREL Natural
+0 @F16@ FAM 
+1 HUSB @P116@
+1 WIFE @P115@
+1 CHIL @P136@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P135@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P134@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P128@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P132@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P131@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P133@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P130@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P129@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P126@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P125@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1746
+2 PLAC Virginia, United States
+0 @F17@ FAM 
+1 HUSB @P125@
+1 WIFE @P146@
+1 CHIL @P144@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P145@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P141@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P142@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P143@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P139@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P140@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P137@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P138@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1783
+2 PLAC VA
+0 @F18@ FAM 
+1 HUSB @P145@
+1 WIFE @P147@
+1 CHIL @P20@
+2 _FREL Unknown
+2 _MREL Natural
+0 @F19@ FAM 
+1 HUSB @P69@
+1 WIFE @P68@
+1 CHIL @P87@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P48@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+0 @F20@ FAM 
+1 HUSB @P149@
+1 WIFE @P148@
+1 CHIL @P69@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM 
+1 HUSB @P20@
+1 WIFE @P19@
+1 CHIL @P159@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P157@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P17@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P160@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P151@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P158@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P152@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P154@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P156@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P155@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P153@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P150@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1840-10-08
+2 PLAC Kentucky
+0 @F22@ FAM 
+1 HUSB @P160@
+1 WIFE @P109@
+1 CHIL @P167@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P165@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P164@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P166@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P169@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P168@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P161@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P162@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P163@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1868
+2 PLAC , Breathitt, Kentucky, USA
+0 @F23@ FAM 
+1 HUSB @P101@
+1 WIFE @P96@
+1 CHIL @P110@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P109@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P107@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P108@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P106@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P103@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P104@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P105@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P102@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1845
+0 @F24@ FAM 
+1 HUSB @P45@
+1 WIFE @P46@
+1 CHIL @P47@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 6 Mar 1878
+2 PLAC Perry, Kentucky, United States
+0 @F25@ FAM 
+1 HUSB @P112@
+1 CHIL @P86@
+2 _FREL Natural
+0 @R-796523304@ REPO
+1 NAME Ancestry.com
+0 @S-170156595@ SOUR
+1 REPO @R-796523304@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S-170156582@ SOUR
+1 REPO @R-796523304@
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7602::0
+0 @S-170154162@ SOUR
+1 REPO @R-796523304@
+1 TITL 1940 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2442::0
+0 @S-170111833@ SOUR
+1 REPO @R-796523304@
+1 TITL U.S. Veterans Gravesites, ca.1775-2006
+1 AUTH National Cemetery Administration
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8750::0
+0 @S-170111815@ SOUR
+1 REPO @R-796523304@
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,6061::0
+0 TRLR
